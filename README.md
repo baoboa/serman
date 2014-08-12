@@ -15,12 +15,12 @@ or
 
 ####Dependency
 
-*python3
-*dialog
-*ncurses
-*systemd
+* python3
+* dialog
+* ncurses
+* systemd
 
 ####Change
 
-*switch F1 key to F3 for compatibility with gnome Terminal
+* switch F1 key to F3 for compatibility with gnome Terminal
 
