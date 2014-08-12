@@ -11,7 +11,7 @@ GPL v3 Licence
 
     ./serman.py
 or
-    python3 ./serman.py
+     python3 ./serman.py
 
 ####Dependency
 
