@@ -7,7 +7,7 @@ initialy from http://xyne.archlinux.ca/projects/serman/
 
 GPL v3 Licence
 
-####Usage
+#### Usage
 
     ./serman.py
     
@@ -15,14 +15,14 @@ or
 
      python3 ./serman.py
 
-####Dependency
+#### Dependency
 
 * python3
 * dialog
 * ncurses
 * systemd
 
-####Change
+#### Change
 
 * switch F1 key to F3 for compatibility with gnome Terminal
 
